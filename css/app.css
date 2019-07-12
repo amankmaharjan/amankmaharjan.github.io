@@ -1,0 +1,14 @@
+#intro{
+    background: url("../img/landingpage.png");
+    background-size: 40% 80%;
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+
+
+}
+.roundbutton{
+    border-radius: 208%;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+}
