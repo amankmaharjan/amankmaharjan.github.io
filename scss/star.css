@@ -1,0 +1,30 @@
+/* ---- reset ---- */
+
+body {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+    /*vertical-align: bottom;*/
+
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    /*height: 200px;*/
+    z-index: -1;
+    background-color: #17182f;
+
+}
+#text{
+    position:absolute;
+    z-index: 1;
+    /*text-align: center;*/
+    /*margin: 0 auto;*/
+    transform: translate(27%, 225%)
+}
